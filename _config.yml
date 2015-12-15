@@ -1,7 +1,7 @@
 name: Collective Unconscious
 favicon: null
-layout_spectrum: 0.2561147965025157
-typography_spectrum: 0.7957357070408762
+layout_spectrum: 1
+typography_spectrum: 0.37751
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.4564971646759659
-  lightness: 0.516236281953752
-  saturation: 0.2958635766990483
-  rhythmicContrast: 0.2596171945333481
+    - '#060807'
+    - '#ffffff'
+    - '#474948'
+    - '#a5a7a6'
+    - '#cbcdcc'
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
